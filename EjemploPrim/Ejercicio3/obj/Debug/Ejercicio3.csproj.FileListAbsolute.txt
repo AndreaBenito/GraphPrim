@@ -1,0 +1,43 @@
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\Abigail\Desktop\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe.config
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe.config
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Abigail\Desktop\CICLO-4\Estructura de Dtos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe.config
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Abigail\Desktop\T4-ED\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Renato\Desktop\Ejemplo Codigo - PRIM\Ejercicio3\obj\Debug\Ejercicio3.pdb
